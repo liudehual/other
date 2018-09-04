@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/persional_code/!svn/ver/515/trunk/ST/src/STServer
+END
+CommonListener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/persional_code/!svn/ver/455/trunk/ST/src/STServer/CommonListener.cpp
+END
+GetOpt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/448/trunk/ST/src/STServer/GetOpt.cpp
+END
+Daemon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/448/trunk/ST/src/STServer/Daemon.cpp
+END
+CommonListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/persional_code/!svn/ver/459/trunk/ST/src/STServer/CommonListener.h
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/443/trunk/ST/src/STServer/Object.cpp
+END
+Server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/515/trunk/ST/src/STServer/Server.cpp
+END
+GetOpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/448/trunk/ST/src/STServer/GetOpt.h
+END
+Daemon.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/448/trunk/ST/src/STServer/Daemon.h
+END
+RTPSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/515/trunk/ST/src/STServer/RTPSession.cpp
+END
+Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/515/trunk/ST/src/STServer/Server.h
+END
+Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/459/trunk/ST/src/STServer/Object.h
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/491/trunk/ST/src/STServer/Util.cpp
+END
+UserAuthentication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/persional_code/!svn/ver/476/trunk/ST/src/STServer/UserAuthentication.cpp
+END
+RTPSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/515/trunk/ST/src/STServer/RTPSession.h
+END
+Log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/persional_code/!svn/ver/469/trunk/ST/src/STServer/Log.cpp
+END
+ConfigFileParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/persional_code/!svn/ver/440/trunk/ST/src/STServer/ConfigFileParser.cpp
+END
+ClientSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/persional_code/!svn/ver/515/trunk/ST/src/STServer/ClientSession.cpp
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/persional_code/!svn/ver/476/trunk/ST/src/STServer/Util.h
+END
+GetNetInterfaceInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/persional_code/!svn/ver/455/trunk/ST/src/STServer/GetNetInterfaceInfo.cpp
+END
+UserAuthentication.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/persional_code/!svn/ver/476/trunk/ST/src/STServer/UserAuthentication.h
+END
+StartServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/persional_code/!svn/ver/455/trunk/ST/src/STServer/StartServer.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/455/trunk/ST/src/STServer/main.cpp
+END
+LogSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/448/trunk/ST/src/STServer/LogSession.cpp
+END
+Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/persional_code/!svn/ver/443/trunk/ST/src/STServer/Log.h
+END
+ClientSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/persional_code/!svn/ver/504/trunk/ST/src/STServer/ClientSession.h
+END
+ConfigFileParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/persional_code/!svn/ver/440/trunk/ST/src/STServer/ConfigFileParser.h
+END
+GetNetInterfaceInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/persional_code/!svn/ver/448/trunk/ST/src/STServer/GetNetInterfaceInfo.h
+END
+StartServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/persional_code/!svn/ver/448/trunk/ST/src/STServer/StartServer.h
+END
+LogSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/448/trunk/ST/src/STServer/LogSession.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/474/trunk/ST/src/STServer/CMakeLists.txt
+END

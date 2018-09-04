@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/persional_code/!svn/ver/457/trunk/ST/src/BaseOS
+END
+IdleTask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/IdleTask.cpp
+END
+ResizeableStringFormatter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/ResizeableStringFormatter.cpp
+END
+PlatformHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/PlatformHeader.h
+END
+FastCopyMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/FastCopyMacros.h
+END
+OSFileSource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSFileSource.cpp
+END
+OSHashTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSHashTable.h
+END
+UDPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/UDPSocket.h
+END
+MyAssert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/MyAssert.cpp
+END
+ev_hw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/ev_hw.cpp
+END
+TCPListenerSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/TCPListenerSocket.h
+END
+GetWord.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/GetWord.c
+END
+StreamLinkRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StreamLinkRef.h
+END
+atomic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/atomic.cpp
+END
+mymutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/mymutex.h
+END
+HWFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/HWFile.cpp
+END
+SocketUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/SocketUtils.h
+END
+OSMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSMemory.h
+END
+ev.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/ev.h
+END
+GetWord.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/GetWord.h
+END
+OSRef.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSRef.h
+END
+StringTranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StringTranslator.h
+END
+OSCond.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSCond.cpp
+END
+UDPDemuxer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/UDPDemuxer.h
+END
+OSQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSQueue.h
+END
+DssStopwatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/DssStopwatch.h
+END
+win32ev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/win32ev.cpp
+END
+Makefile.POSIX
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/Makefile.POSIX
+END
+PLDoubleLinkedList.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/PLDoubleLinkedList.h
+END
+StringFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StringFormatter.h
+END
+UDPSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/UDPSocket.cpp
+END
+Task.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/Task.cpp
+END
+TCPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/TCPSocket.h
+END
+TCPListenerSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/TCPListenerSocket.cpp
+END
+ResizeableStringFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/ResizeableStringFormatter.h
+END
+IdleTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/IdleTask.h
+END
+OSFileSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSFileSource.h
+END
+SocketUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/SocketUtils.cpp
+END
+ev_epoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/ev_epoll.h
+END
+SDPUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/SDPUtils.h
+END
+ev_hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/ev_hw.h
+END
+StopWatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StopWatch.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/atomic.h
+END
+HWFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/HWFile.h
+END
+OSHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSHeap.h
+END
+SafeStdLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/SafeStdLib.h
+END
+EventContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/EventContext.cpp
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/Socket.cpp
+END
+StringParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StringParser.h
+END
+DateTranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/DateTranslator.h
+END
+TCPSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/persional_code/!svn/ver/457/trunk/ST/src/BaseOS/TCPSocket.cpp
+END
+UDPSocketPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/UDPSocketPool.h
+END
+OSCodeFragment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSCodeFragment.cpp
+END
+StrPtrLen.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StrPtrLen.h
+END
+OSMutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSMutex.cpp
+END
+ev_epoll.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/ev_epoll.cpp
+END
+SDPUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/SDPUtils.cpp
+END
+Task.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/Task.h
+END
+UserAgentParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/UserAgentParser.cpp
+END
+TimeoutTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/TimeoutTask.h
+END
+OSThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSThread.h
+END
+OSHeap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSHeap.cpp
+END
+OSMutexRW.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSMutexRW.h
+END
+QueryParamList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/QueryParamList.cpp
+END
+StringParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StringParser.cpp
+END
+OS.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OS.h
+END
+DateTranslator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/DateTranslator.cpp
+END
+EventContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/EventContext.h
+END
+UDPSocketPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/UDPSocketPool.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/CMakeLists.txt
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/Socket.h
+END
+StrPtrLen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StrPtrLen.cpp
+END
+PathDelimiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/PathDelimiter.h
+END
+OSCodeFragment.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSCodeFragment.h
+END
+StreamLinkRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StreamLinkRef.cpp
+END
+mymutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/mymutex.cpp
+END
+OSThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSThread.cpp
+END
+OSMutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSMutex.h
+END
+TimeoutTask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/TimeoutTask.cpp
+END
+ev.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/ev.cpp
+END
+MyAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/MyAssert.h
+END
+OSMutexRW.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSMutexRW.cpp
+END
+InternalStdLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/InternalStdLib.cpp
+END
+OSRef.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSRef.cpp
+END
+UserAgentParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/UserAgentParser.h
+END
+StringTranslator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StringTranslator.cpp
+END
+OS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OS.cpp
+END
+UDPDemuxer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/UDPDemuxer.cpp
+END
+OSHeaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSHeaders.h
+END
+OSQueue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSQueue.cpp
+END
+QueryParamList.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/QueryParamList.h
+END
+OSCond.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/OSCond.h
+END
+StringFormatter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/persional_code/!svn/ver/432/trunk/ST/src/BaseOS/StringFormatter.cpp
+END
